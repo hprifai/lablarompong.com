@@ -1,6 +1,6 @@
 <!-- Simplicity is an acquired taste. - Katharine Gerould -->
 <!DOCTYPE html>
-<html lang="en" class="h-full bg-white scroll-smooth">
+<html lang="en" class="h-full bg-gray-100 scroll-smooth">
 
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
     @vite('resources/css/app.css')
     @vite(['resources/js/app.js'])
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
-    <title>Halaman Home</title>
+    <title>{{ $title }}</title>
 </head>
 
 <body class="h-full">

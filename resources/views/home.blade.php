@@ -1,5 +1,5 @@
 <x-layout>  
-  {{-- <x-slot:title>{{ $title }}</x-slot:title> --}}
+  <x-slot:title>{{ $title }}</x-slot:title>
   <section id="hero" class="max-w-screen min-h-screen text-center  bg-[url(../img/bg-hero.jpg)] bg-cover top-0 left-0">
     <div class="flex  flex-col items-center content-end">
         <h1 class="mb-3 mt-25 text-3xl font-extrabold tracking-tight leading-none text-white  md:text-5xl lg:text-6xl dark:text-white">Pusat Informasi Layanan</h1>
