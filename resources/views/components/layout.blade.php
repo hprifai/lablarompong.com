@@ -8,9 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     @vite('resources/css/app.css')
     @vite(['resources/js/app.js'])
-    @vite(['resources/js/allData.js'])
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
-    <script src="Herd/lablarompong/node_modules/flowbite/dist/flowbite.min.js"></script>
     <title>Halaman Home</title>
 </head>
 

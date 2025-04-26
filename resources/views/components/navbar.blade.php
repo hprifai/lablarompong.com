@@ -7,7 +7,7 @@
             <div class="flex items-center">
                 <div class="shrink-0">
                     <img class="size-28"
-                        src="../img/navbar-logo.png"
+                        src="/storage/img/logo.png"
                         alt="Logo">
                 </div>
                 <div class="hidden md:block">
